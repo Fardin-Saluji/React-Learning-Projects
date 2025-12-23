@@ -1,0 +1,13 @@
+.app {
+  background: linear-gradient(120deg, #4a60f6, #00b4ff);
+  min-height: 100vh;
+  padding: 30px;
+}
+
+.title {
+  text-align: center;
+  color: white;
+  font-size: 32px;
+  margin-bottom: 20px;
+  
+}
