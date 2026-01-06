@@ -1,3 +1,5 @@
+💰 Money Management App (Redux)                                                                                                         
+
 A simple money management app built with React and Redux Toolkit that allows users to credit and debit money while keeping a transaction history with date, time, and type.
 
 🚀 Features
