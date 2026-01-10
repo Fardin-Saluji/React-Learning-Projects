@@ -9,9 +9,9 @@ This repository contains React projects that I built while learning React step-b
 
 ## 🧩 Projects Included
 - Hello React
-- move list
-- memory game
-- money management redux
+- Move List
+- Memory Game
+- Money Management Redux
 
 ## 🛠 Tech Stack
 - React
