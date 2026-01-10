@@ -9,9 +9,9 @@ This repository contains React projects that I built while learning React step-b
 
 ## 🧩 Projects Included
 - Hello React
-- Counter App
-- Todo App
-- Weather App (API based)
+- move list
+- memory game
+- money management redux
 
 ## 🛠 Tech Stack
 - React
