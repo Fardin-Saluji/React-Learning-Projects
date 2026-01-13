@@ -9,9 +9,14 @@ This repository contains React projects that I built while learning React step-b
 
 ## 🧩 Projects Included
 - Hello React
+- Movie Card
 - Move List
 - Memory Game
+- Contact Card App
+- Auth App
 - Money Management Redux
+- Dynamic Login Form
+- Spotify Clone
 
 ## 🛠 Tech Stack
 - React
