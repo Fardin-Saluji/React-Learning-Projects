@@ -27,6 +27,19 @@ cd React-Learning-Projects/10-pagination-app
 npm install
 npm start
 ```
+📘 Learning Outcomes
+
+Understood pagination logic and data slicing in React
+
+Hands-on experience with React hooks (useState, useEffect)
+
+Improved skills in API data fetching and state management
+
+Learned conditional rendering and UI state handling
+
+Built reusable and clean functional components
+
+Gained confidence in structuring small-scale React applications
 
 ## 👨‍💻 Author
 
