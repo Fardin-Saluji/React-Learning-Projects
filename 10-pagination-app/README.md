@@ -6,10 +6,6 @@ A **React mini project** that fetches products from an API and displays them usi
 
 [https://pagination-app-react.vercel.app](https://pagination-app-react.vercel.app)
 
-## 📂 Repository
-
-[https://github.com/Fardin-Saluji/React-Learning-Projects/tree/main/10-pagination-app](https://github.com/Fardin-Saluji/React-Learning-Projects/tree/main/10-pagination-app)
-
 ## ✨ Features
 
 * Fetch data using REST API
