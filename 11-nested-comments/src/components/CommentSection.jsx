@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Comment from './Comment';
-import mockData from '../data/mock.json';
+
 
 const CommentSection = () => {
   const [comments, setComments] = useState([]);
