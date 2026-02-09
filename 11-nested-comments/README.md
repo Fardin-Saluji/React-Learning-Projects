@@ -46,6 +46,7 @@ https://www.linkedin.com/in/fardinsaluji/
 
 ## 📂 Folder Structure
 
+```bash
 nested-comments/
 ├── public/
 │   ├── index.html
@@ -68,6 +69,7 @@ nested-comments/
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
 
 ---
 
