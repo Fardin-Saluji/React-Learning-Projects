@@ -60,6 +60,7 @@ movie-card/
 ├── tailwind.config.js
 ├── vite.config.js
 └── README.md
+```
 
 ---
 
