@@ -33,32 +33,7 @@ https://movie-card-styling.vercel.app
 
 ## 📂 Project Folder Structure
 
-movie-card/
-│
-├── public/
-│   └── index.html
-│
-├── src/
-│   ├── assets/
-│   │   └── images/
-│   │
-│   ├── components/
-│   │   └── MovieCard.jsx
-│   │
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   └── main.jsx
-│
-├── .gitignore
-├── eslint.config.js
-├── index.html
-├── package.json
-├── package-lock.json
-├── postcss.config.js
-├── tailwind.config.js
-├── vite.config.js
-└── README.md
+movie-card/ │ ├── public/ │   └── index.html │ ├── src/ │   ├── assets/ │   │   └── images/ │   │ │   ├── components/ │   │   └── MovieCard.jsx │   │ │   ├── App.jsx │   ├── App.css │   ├── index.css │   └── main.jsx │ ├── .gitignore ├── eslint.config.js ├── index.html ├── package.json ├── package-lock.json ├── postcss.config.js ├── tailwind.config.js ├── vite.config.js └── README.md
 
 ---
 
