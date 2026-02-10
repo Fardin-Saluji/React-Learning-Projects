@@ -10,16 +10,6 @@ This project focuses on understanding **state management, props, component reusa
 
 ---
 
-## 👨‍💻 Developer
-**Fardin Saluji**  
-Aspiring Full Stack Web Developer  
-📍 Mumbai, India  
-
-🔗 LinkedIn  
-https://www.linkedin.com/in/fardinsaluji/
-
----
-
 ## 🛠 Tech Stack
 - React.js
 - JavaScript (ES6+)
@@ -117,6 +107,15 @@ http://localhost:5173
 - Add movie rating feature
 - Convert this project into a full CRUD application
 
+---
+
+## 👨‍💻 Developer
+**Fardin Saluji**  
+Aspiring Full Stack Web Developer  
+📍 Mumbai, India  
+
+🔗 LinkedIn  
+https://www.linkedin.com/in/fardinsaluji/
 ---
 
 ## 🤝 Feedback
