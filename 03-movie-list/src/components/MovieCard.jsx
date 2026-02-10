@@ -1,3 +1,4 @@
+import React from "react";
 import "./MovieCard.css";
 
 function MovieCard({ title, year }) {
