@@ -83,11 +83,12 @@ From this project, I learned and practiced:
 
 ## ▶️ How to Run Locally
 
+```
 git clone https://github.com/Fardin-Saluji/React-Learning-Projects.git
 cd movie-list
 npm install
 npm run dev
-
+```
 ---
 
 ## ▶️ Open in Browser
