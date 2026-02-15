@@ -57,8 +57,52 @@ Render
 GitHub  
 
 ---
+## 📁 Folder Structure
 
-## 📂 Project Structure
+```bash
+12-file-explorer/
+│
+├── public/
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── logo192.png
+│   ├── logo512.png
+│   ├── manifest.json
+│   └── robots.txt
+│
+├── src/
+│   ├── App.css
+│   ├── App.js
+│   ├── App.test.js
+│   ├── index.css
+│   ├── index.js
+│   ├── logo.svg
+│   ├── reportWebVitals.js
+│   └── setupTests.js
+│
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── README.md
 ```
-12-file-explorer/ │ ├── node_modules/ │ ├── public/ │   ├── favicon.ico │   ├── index.html │   ├── logo192.png │   ├── logo512.png │   ├── manifest.json │   └── robots.txt │ ├── src/ │   ├── App.css │   ├── App.js │   ├── App.test.js │   ├── index.css │   ├── index.js │   ├── logo.svg │   ├── reportWebVitals.js │   └── setupTests.js │ ├── .gitignore ├── package-lock.json ├── package.json └── README.md
-```
+---
+## ▶️ How to Run Locally
+
+git clone https://github.com/Fardin-Saluji/React-Learning-Projects.git  
+cd React-Learning-Projects/11-nested-comments  
+npm install  
+npm start  
+
+The app will run on:  
+http://localhost:3000
+
+---
+
+🔗 LinkedIn Profile  
+https://www.linkedin.com/in/fardinsaluji/
+
+---
+
+## 🤝 Feedback
+Suggestions and feedback are always welcome.  
+Feel free to connect with me on LinkedIn.
