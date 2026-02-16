@@ -1,4 +1,4 @@
-
+import React from "react";
 import { GameProvider } from "./Context/GameContext.jsx";
 import GameBoard from "./components/GameBoard";
 import "./App.css";
