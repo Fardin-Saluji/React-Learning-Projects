@@ -1,5 +1,5 @@
 
-import { GameProvider } from "./Context/GameContext";
+import { GameProvider } from "./Context/GameContext.jsx";
 import GameBoard from "./components/GameBoard";
 import "./App.css";
 
