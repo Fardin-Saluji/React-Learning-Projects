@@ -1,3 +1,4 @@
+import React from "react";
 import { useContext, useEffect, useState } from "react";
 import { GameContext } from "../Context/GameContext.jsx";
 import Card from "./Card";
