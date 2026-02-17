@@ -1,27 +1,18 @@
-import { useContext, useMemo } from "react";
-import { ContactContext } from "../context/ContactContext";
-import ContactCard from "./ContactCard";
+ import { createContext, useState } from "react";
 
-const ContactList = () => {
-  const { contacts } = useContext(ContactContext);
+export const ContactContext = createContext();
 
-  const sortedContacts = useMemo(() => {
-    return [...contacts].sort((a, b) => a.name.localeCompare(b.name));
-  }, [contacts]);
-   
+export const ContactProvider = ({ children }) => {
+  const [contacts, setContacts] = useState([]);
 
+  const addContact = (contact) => {
+    setContacts((prev) => [...prev, contact]);
+  };
+  
+  
   return (
-    <div className="list">
-      <h2>Saved Contacts</h2>
-
-      {sortedContacts.map((c, index) => (
-        <ContactCard key={index} contact={c} />
-      ))}
-    </div>
+    <ContactContext.Provider value={{ contacts, addContact }}>
+      {children}
+    </ContactContext.Provider>
   );
 };
-
-
-
-
-export default ContactList;
