@@ -1,6 +1,6 @@
 import { useContext, useMemo } from "react";
 import { ContactContext } from "../context/ContactContext";
-import ContactCard from "./ContactCard";
+import ContactCard from "../components/ContactCard";
 
 const ContactList = () => {
   const { contacts } = useContext(ContactContext);
