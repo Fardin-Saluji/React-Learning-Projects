@@ -17,6 +17,10 @@ This repository contains React projects that I built while learning React step-b
 - Money Management Redux
 - Dynamic Login Form
 - Spotify Clone
+- pagination-app
+- nested-comments
+- file-explorer
+- event-calendar
 
 ## 🛠 Tech Stack
 - React
