@@ -112,6 +112,12 @@ git push -u origin main
 
 ---
 
+💼 LinkedIn
+
+🔗 https://www.linkedin.com/in/fardinsaluji/
+
+---
+
 🙌 Author
 
 👤 Fardin Saluji
