@@ -84,12 +84,12 @@ rick-morty-app/
 ---
 
 ▶️ Run Locally
-
+```
 git clone https://github.com/Fardin-Saluji/rick-morty-app.git
 cd rick-morty-app
 npm install
 npm start
-
+```
 ---
 
 📚 Learning Outcomes
